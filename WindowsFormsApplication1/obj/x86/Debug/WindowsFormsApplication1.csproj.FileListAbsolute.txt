@@ -1,0 +1,45 @@
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\caopengfei\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.test.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Project\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Real_Time_Timer_From.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Real_Timer_Thread_From.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Real_Time_Timer_From.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Pie.resources
+E:\Program Files (x86)\Microsoft Visual Studio 10.0\Projects\折线图\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PieForm.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Pie.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PieForm.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Real_Timer_Thread_From.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Real_Time_Timer_From.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\MSChartLineChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
